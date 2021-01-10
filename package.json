@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Thanks for downloading this theme!",
   "main": "app.js",
-  "engines":{
-	"node": "14.15.4"
-},
+  "engines": {
+    "node": "14.15.4"
+  },
   "directories": {
     "lib": "lib"
   },
